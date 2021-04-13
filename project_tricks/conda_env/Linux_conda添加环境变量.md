@@ -10,7 +10,7 @@ mkdir -p ./etc/conda/deactivate.d
 touch ./etc/conda/activate.d/env_vars.sh
 touch ./etc/conda/deactivate.d/env_vars.sh
 ```
-3. 在`activate.d`的`env_vars.sh`脚本中添加激活环境时的环境变量，多个的话用``'``分隔，例如：
+3. 在`activate.d`的`env_vars.sh`脚本中添加激活环境时的环境变量，多个的话用``:``分隔，例如：
 ```sh
 export PYTHONPATH="/home/repos/myproject":"/home/repos/myproject/libs"
 ```

@@ -1,2 +1,8 @@
-# cheatsheets
-Record some tricks that I met in works.
+# Cheatsheets
+记录了我遇到过的一些问题的解决方法。
+
+## Conda相关
+1. [Linux Conda添加环境变量](./project_tricks/conda_env/Linux_conda添加环境变量.md)
+
+## SSH连接服务器
+1. [XShell远程连接服务器](./ssh_remote_tricks/XShell远程连接服务器.md)
