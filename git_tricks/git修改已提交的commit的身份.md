@@ -52,8 +52,13 @@ git push origin --force --all
 </p>
 
 #### repos版本回滚
-中途不小心给回滚了，回退到某一版本用
+中途不小心给回滚了，回退到某一版本用：
 ```
 git reset --hard {版本号（比如96ee72c3）}
 git push origin {branch名称} --force
+```
+
+查看版本号：
+```
+git log remotes/origin/{branch名称}
 ```
