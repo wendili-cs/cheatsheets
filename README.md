@@ -6,3 +6,6 @@
 
 ## SSH连接服务器
 1. [XShell远程连接服务器](./ssh_remote_tricks/XShell远程连接服务器.md)
+
+## 操作系统指令相关
+1. [Linux bash默认文件的作用](./project_tricks/Linux_bash.md)
