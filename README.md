@@ -9,3 +9,6 @@
 
 ## 操作系统指令相关
 1. [Linux bash默认文件的作用](./project_tricks/Linux_bash.md)
+
+## CLion相关
+1. [Clion在MacOS上报错](./CLion_tricks/CLion在MacOS上报错.md)
